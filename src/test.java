@@ -5,6 +5,6 @@ public class test {
         System.out.println("Donner une valeur");
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
-        System.out.println("La valeur de x " + x);
+        System.out.println("La valeur de x est" + x);
     }
 }
